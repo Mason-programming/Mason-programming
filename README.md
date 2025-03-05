@@ -8,7 +8,7 @@
 
 ---
 
-## Projects:
+Projects:
 
     *  📚 Shelf Sight Analytics: New Computer Vision  
     *  💫 Disney: Unreleased project 
