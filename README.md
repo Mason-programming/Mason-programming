@@ -10,10 +10,8 @@
 
 Mason Kirby specializes in developing high-performance software tools for 3D animation, digital twins, and OpenUSD workflows. With experience at Walt Disney Animation Studios, Universal Creative, and ShelfSight Analytics, he is an expert at creating artist-friendly tools that streamline scene assembly, layout, and real-time collaboration across multiple DCCs.
 
-Mason's Career Journey
-
 <details>
-  <summary>📌 Click to Expand</summary>
+  <summary>📌 Mason's Career Journey </summary>
 
 Mason specializes in **3D animation tools, OpenUSD, and digital twins**.  
 Worked at **Walt Disney Animation Studios, Universal Creative, and ShelfSight Analytics**, building **pipeline tools for Maya, Houdini, and Unreal Engine**.  
