@@ -21,7 +21,7 @@ Worked at **Walt Disney Animation Studios, Universal Creative, and ShelfSight An
 - 🎬 **Walt Disney Animation Studios:** Wish, Unreleased Projects  
 - 🎢 **Universal Creative:** Donkey Kong Mine-Cart Madness 
 - 🏰 **Super Secret Simulation Technology at Walt Disney World Global Engineering and Technology** 
-- 🖥 **ShelfSight Analytics:** Real-Time Computer Vision Application
+- 📸 **ShelfSight Analytics:** Real-Time Computer Vision Application
 ---
 
 📫 Let's Connect!  
