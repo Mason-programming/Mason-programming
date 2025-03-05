@@ -1,6 +1,5 @@
 # Mason Kirby 🖥️
 
----
 
 ### Welcome to my coding portfolio 🙂
 
