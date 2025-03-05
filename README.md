@@ -10,9 +10,8 @@
 
 Projects:
 
-
-    - 📚 Shelf Sight Analytics: New Computer Vision  
-    - 💫 Disney: Unreleased project 
-    - 💫 Disney: Wish
-    - 🧭 Universal Creative: Donkey Kong Mine-Cart Madness! 
-    - 🕵️‍ Super Secret Walt Disney World Global Engineering and Technology stuff
+    * 📚 Shelf Sight Analytics: New Computer Vision  
+    *  💫 Disney: Unreleased project 
+    *  💫 Disney: Wish
+    * 🧭 Universal Creative: Donkey Kong Mine-Cart Madness! 
+    * 🕵️‍ Super Secret Walt Disney World Global Engineering and Technology stuff
