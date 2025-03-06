@@ -10,15 +10,13 @@ Mason Kirby specializes in developing high-performance software tools for 3D ani
 
 <details>
   <summary>📌 Mason's Career Journey </summary>
-Ever since I was a kid, I’ve been fascinated by theme parks and roller coasters—the perfect blend of creativity and engineering. I always dreamed of working on one, and I got my chance at Universal Creative, where I developed a controls emulation application for Donkey Kong Mine Cart Madness. Seeing my software contribute to an attraction that brings joy to so many people was an unforgettable experience.
+I am a software application developer passionate about bridging the physical and digital worlds through interactive applications and digital twins. My journey has taken me across theme parks, animation studios, and machine vision, where I’ve built software that enhances both creative and technical workflows.
 
+At Universal Creative, I developed a controls emulation application for Donkey Kong Mine Cart Madness, creating a digital twin of the ride’s control system to simulate and test interactions before real-world deployment. This experience reinforced my passion for developing applications that integrate software, simulation, and real-time systems to improve efficiency and performance.
 
+At Walt Disney Animation Studios, I worked as a Technical Director, developing pipeline applications for scene assembly, layout, and animation workflows. My tools helped artists seamlessly transition assets across multiple software platforms, ensuring a fluid creative process. Working at the intersection of software development, automation, and digital content creation gave me a deeper understanding of how software applications drive storytelling.
 
-I’ve also always been passionate about movies, especially animation. The idea of building tools that help artists bring stories to life led me to Walt Disney Animation Studios, where I worked as a Technical Director. There, I created pipeline tools for scene assembly, layout, and animation workflows, working closely with artists to make the creative process more seamless and efficient. Being part of Disney’s filmmaking magic was a dream come true.
-
-Now, I’m focused on machine vision and AI-driven automation at ShelfSight Analytics, developing real-time object recognition systems that push the boundaries of how technology interacts with the physical world. My passion for combining creativity and engineering continues through my work and my contributions as a volunteer at SIGGRAPH, where I help review the best way to make a efficient vfx and digital twin pipelines. 
-
-Whether it’s theme parks, animation, or cutting-edge technology, I thrive at the intersection of storytelling and engineering—building tools that enhance creative expression and bring ideas to life.  
+Now, at ShelfSight Analytics, I am applying my expertise in machine vision and AI-powered automation, developing applications that use real-time object recognition and tracking to enhance inventory management. Beyond my work, I contribute to SIGGRAPH, helping advance research in computer graphics, simulation, and interactive technology. My passion for developing applications that merge software and digital twins continues to drive me, and I am excited about the future of simulation-driven workflows and intelligent automation.  
 </details>
 
 📂 Projects:
