@@ -13,6 +13,7 @@ Mason Kirby specializes in developing high-performance software tools for 3D ani
 Ever since I was a kid, I’ve been fascinated by theme parks and roller coasters—the perfect blend of creativity and engineering. I always dreamed of working on one, and I got my chance at Universal Creative, where I developed a controls emulation application for Donkey Kong Mine Cart Madness. Seeing my software contribute to an attraction that brings joy to so many people was an unforgettable experience.
 
 
+
 I’ve also always been passionate about movies, especially animation. The idea of building tools that help artists bring stories to life led me to Walt Disney Animation Studios, where I worked as a Technical Director. There, I created pipeline tools for scene assembly, layout, and animation workflows, working closely with artists to make the creative process more seamless and efficient. Being part of Disney’s filmmaking magic was a dream come true.
 
 Now, I’m focused on machine vision and AI-driven automation at ShelfSight Analytics, developing real-time object recognition systems that push the boundaries of how technology interacts with the physical world. My passion for combining creativity and engineering continues through my work and my contributions as a volunteer at SIGGRAPH, where I help shape the future of computer graphics and visual effects.
