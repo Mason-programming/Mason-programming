@@ -30,4 +30,4 @@ Whether it’s theme parks, animation, or cutting-edge technology, I thrive at t
 ---
 
 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mason-kirby-/)  [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mason-kirby-/)  
