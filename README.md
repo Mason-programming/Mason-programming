@@ -24,7 +24,7 @@ Whether it’s theme parks, animation, or cutting-edge technology, I thrive at t
 📂 Projects:
 - 🎬 **Walt Disney Animation Studios:** Wish, Unreleased Projects  
 - 🎢 **Universal Creative:** Donkey Kong Mine-Cart Madness 
-- 🏰 **Super Secret Simulation Technology at Walt Disney World Global Engineering and Technology**
+- 🏰 **Simulation Technology at Walt Disney World Global Engineering and Technology**
 - 👨‍💻 **Paychex:** Secure Data Request Management System with Django and React (California Consumer Privacy Act)
 - 📸 **ShelfSight Analytics:** Real-Time Computer Vision Application
 ---
