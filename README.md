@@ -10,14 +10,13 @@ Mason Kirby specializes in developing high-performance software tools for 3D ani
 
 <details>
   <summary>📌 Mason's Career Journey </summary>
+Ever since I was a kid, I’ve been fascinated by theme parks and roller coasters—the perfect blend of creativity and engineering. I always dreamed of working on one, and I got my chance at Universal Creative, where I developed a controls emulation application for Donkey Kong Mine Cart Madness. Seeing my software contribute to an attraction that brings joy to so many people was an unforgettable experience.
 
-My career has been shaped by bridging creativity and technology, developing software that enhances storytelling, automation, and interactive experiences. At Walt Disney World, I worked on simulation and training tools, integrating systems to improve efficiency and streamline operations. This led me to Universal Creative, where I built automated testing and visualization tools for theme park attractions, ensuring seamless software-hardware integration.
+I’ve also always been passionate about movies, especially animation. The idea of building tools that help artists bring stories to life led me to Walt Disney Animation Studios, where I worked as a Technical Director. There, I created pipeline tools for scene assembly, layout, and animation workflows, working closely with artists to make the creative process more seamless and efficient. Being part of Disney’s filmmaking magic was a dream come true.
 
-At Walt Disney Animation Studios, I transitioned into pipeline engineering, creating tools for scene assembly, layout, and asset management. I collaborated with artists and TDs to optimize workflows, integrating VR and USD-based technologies to improve production efficiency and enhance creative flexibility.
+Now, I’m focused on machine vision and AI-driven automation at ShelfSight Analytics, developing real-time object recognition systems that push the boundaries of how technology interacts with the physical world. My passion for combining creativity and engineering continues through my work and my contributions as a volunteer at SIGGRAPH, where I help shape the future of computer graphics and visual effects.
 
-Currently, at ShelfSight Analytics, I focus on machine vision and AI-driven automation, developing real-time object recognition systems. My work merges AI, networking, and real-time processing to drive innovation in smart inventory tracking.
-
-Beyond my work, I contribute to SIGGRAPH as an External Reviewer, evaluating advancements in computer graphics and VFX technology. Looking ahead, I aim to continue developing high-performance tools that empower artists, streamline workflows, and push the boundaries of interactive media and real-time technology.  
+Whether it’s theme parks, animation, or cutting-edge technology, I thrive at the intersection of storytelling and engineering—building tools that enhance creative expression and bring ideas to life.  
 </details>
 
 📂 Projects:
