@@ -24,7 +24,7 @@ Now, at ShelfSight Analytics, I am applying my expertise in machine vision and A
 - 🎢 **Universal Creative:** Donkey Kong Mine-Cart Madness 
 - 🏰 **Simulation Technology at Walt Disney World Global Engineering and Technology**
 - 👨‍💻 **Paychex:** Secure Data Request Management System with Django and React (California Consumer Privacy Act)
-- 📸 **ShelfSight Analytics:** Real-Time Computer Vision Application
+- 📸 **ShelfSight Analytics:** Real-Time Computer Vision Application.
 ---
 
 📫 Let's Connect!  
