@@ -20,6 +20,7 @@ Now, at ShelfSight Analytics, I am applying my expertise in machine vision and A
 </details>
 
 📂 Projects:
+- **Universal USD Bridge – Real-Time Multi-DCC Synchronization:** Universal USD Bridge is a cross-platform synchronization framework
 - 🎬 **Walt Disney Animation Studios:** Wish, Unreleased Projects  
 - 🎢 **Universal Creative:** Donkey Kong Mine-Cart Madness 
 - 🏰 **Simulation Technology at Walt Disney World Global Engineering and Technology**
